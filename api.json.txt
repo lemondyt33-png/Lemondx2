@@ -1,0 +1,9 @@
+{
+     UserId = User.Me.Id.ToString();
+    AuthType = (CustomAuthenticationType)255;
+    hashtable = new Hashtable();
+    ("token", "dummyToken123456789abcdef");
+    AuthPostData = hashtable;
+    }
+  }
+}
